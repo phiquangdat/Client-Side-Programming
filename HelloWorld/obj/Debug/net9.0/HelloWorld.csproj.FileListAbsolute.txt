@@ -1,0 +1,4 @@
+/Users/phiquangdat/Desktop/Client Side Programming/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phiquangdat/Desktop/Client Side Programming/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/phiquangdat/Desktop/Client Side Programming/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/phiquangdat/Desktop/Client Side Programming/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
